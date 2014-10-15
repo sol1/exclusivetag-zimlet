@@ -1,0 +1,4 @@
+<zimlet name="com_sol1_exclusivetag" version="1.0" description="Exclusive tag - Removes all other tags when a tag is added (Zimbra 8.x compatible)">
+	<include>exclusivetag.js</include>
+	<handlerObject>com_sol1_exclusivetag_Handler</handlerObject>
+</zimlet>
